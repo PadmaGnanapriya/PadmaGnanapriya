@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 - ⭕ I’m currently studing level 2 - Bsc(hons) in Software Engineering 
 - ⭕ I’m looking for help other coders to improve my knowledge
+- ⭕ You can read my articles: https://medium.com/@padmaisuru
 - ⭕ How to reach me: padmaisuru@gmail.com
 
 - Follow me on
