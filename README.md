@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 ![image](https://drive.google.com/uc?export=view&id=1w7FWHOLtiIJ25QUZ6uJ_a1C-jWet_Wmg)
 
+- ⭕ Proud to be a Mahindian.🖤💛🖤
 - ⭕ I’m currently studing level 2 - Bsc(hons) in Software Engineering 
 - ⭕ I’m looking for help other coders to improve my knowledge
 - ⭕ You can read my articles: https://medium.com/@padmaisuru
