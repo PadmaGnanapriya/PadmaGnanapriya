@@ -25,7 +25,10 @@ Here are some ideas to get you started:
 
 - Follow me on
 
-[![p ](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/linkedin.png)][https://www.linkedin.com/in/padma-gnanapriya-16b515180]
-[![p ](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/facebook.png)][https://www.facebook.com/padma.kalhara/]
-[![p ](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/medium.png)][https://medium.com/@padmaisuru]
-[![p ](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/github.png)][https://github.com/PadmaGnanapriya]
+
+![p ](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/linkedin.png)[https://www.linkedin.com/in/padma-gnanapriya-16b515180]
+![p ](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/facebook.png)[https://www.facebook.com/padma.kalhara/]
+![p ](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/medium.png)[https://medium.com/@padmaisuru]
+![p ](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/github.png)[https://github.com/PadmaGnanapriya]
+
+
