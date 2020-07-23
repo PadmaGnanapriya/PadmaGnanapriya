@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **PadmaGnanapriya/PadmaGnanapriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋, I am Padma Gnanapriya.  
+### Hi there 👋, I am *Padma Gnanapriya*.  
 #### Software Enginnering Undergraduate, University of Kelaniya
 
 ![image](https://drive.google.com/uc?export=view&id=1w7FWHOLtiIJ25QUZ6uJ_a1C-jWet_Wmg)
@@ -26,9 +25,9 @@ Here are some ideas to get you started:
 - Follow me on
 
 
-![p ](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/linkedin.png)[https://www.linkedin.com/in/padma-gnanapriya-16b515180]
-![p ](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/facebook.png)[https://www.facebook.com/padma.kalhara/]
-![p ](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/medium.png)[https://medium.com/@padmaisuru]
-![p ](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/github.png)[https://github.com/PadmaGnanapriya]
+[![Padma](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/linkedin.png)](https://www.linkedin.com/in/padma-gnanapriya-16b515180)
+[![Padma](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/facebook.png)](https://www.facebook.com/padma.kalhara/)
+[![Padma](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/medium.png)](https://medium.com/@padmaisuru)
+[![Padma](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/github.png)](https://github.com/PadmaGnanapriya)
 
 
