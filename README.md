@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- [![Padma](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/medium.png)](https://medium.com/@padmaisuru) -->
+
 ### Hi there 👋, I am *Padma Gnanapriya*.  
 #### Software Enginnering Undergraduate, University of Kelaniya
 
@@ -21,15 +23,16 @@ Here are some ideas to get you started:
 - ⭕ Proud to be a Mahindian.🖤💛🖤
 - ⭕ I’m currently studing level 2 - Bsc(hons) in Software Engineering 
 - ⭕ I’m looking for help other coders to improve my knowledge
-- ⭕ You can read my articles: https://medium.com/@padmaisuru
-- ⭕ How to reach me: padmaisuru@gmail.com
+<!-- - ⭕ You can read my articles: https://medium.com/@padmaisuru -->
+- ⭕ How to reach me: padmaisuru@gmail.com | https://padmagnanapriya.github.io
+
 
 - Follow me on
 
-
+<!-- [![Padma](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/web.png)](https://padmagnanapriya.github.io) -->
 [![Padma](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/linkedin.png)](https://www.linkedin.com/in/padma-gnanapriya-16b515180)
 [![Padma](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/facebook.png)](https://www.facebook.com/padma.kalhara/)
-[![Padma](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/medium.png)](https://medium.com/@padmaisuru)
 [![Padma](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/github.png)](https://github.com/PadmaGnanapriya)
+
 
 
