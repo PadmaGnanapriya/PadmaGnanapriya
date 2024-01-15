@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - ⭕ Proud to be a Mahindian.🖤💛🖤
 <!-- - ⭕ I’m currently studing level 2 - Bsc(hons) in Software Engineering -->
-- ⭕ I’m looking for help other coders to improve my knowledge
+<!-- - ⭕ I’m looking for help other coders to improve my knowledge -->
 - ⭕ You can read my articles: https://medium.com/@padmagnanapriya 
 - ⭕ How to reach me: padmaisuru@gmail.com | https://padmagnanapriya.github.io
 
