@@ -16,23 +16,26 @@ Here are some ideas to get you started:
 <!-- [![Padma](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/medium.png)](https://medium.com/@padmaisuru) -->
 
 ### Hi there 👋, I am *Padma Gnanapriya*.  
-#### Software Enginnering Undergraduate, University of Kelaniya
+#### Software Engineer at Velaris | React | Node | AWS
 
 ![image](https://drive.google.com/uc?export=view&id=1w7FWHOLtiIJ25QUZ6uJ_a1C-jWet_Wmg)
 
 - ⭕ Proud to be a Mahindian.🖤💛🖤
-- ⭕ I’m currently studing level 2 - Bsc(hons) in Software Engineering 
+<!-- - ⭕ I’m currently studing level 2 - Bsc(hons) in Software Engineering -->
 - ⭕ I’m looking for help other coders to improve my knowledge
-<!-- - ⭕ You can read my articles: https://medium.com/@padmaisuru -->
+- ⭕ You can read my articles: https://medium.com/@padmagnanapriya 
 - ⭕ How to reach me: padmaisuru@gmail.com | https://padmagnanapriya.github.io
 
 
 - Follow me on
 
-<!-- [![Padma](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/web.png)](https://padmagnanapriya.github.io) -->
-[![Padma](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/linkedin.png)](https://www.linkedin.com/in/padma-gnanapriya-16b515180)
-[![Padma](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/facebook.png)](https://www.facebook.com/padma.kalhara/)
+[![Padma](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/web.png)](https://padmagnanapriya.github.io)
+[![Padma](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/linkedin.png)](https://www.linkedin.com/in/padma-gnanapriya)
+[![Padma](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/facebook.png)](https://www.facebook.com/padma.gnanapriya/)
 [![Padma](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/github.png)](https://github.com/PadmaGnanapriya)
+[![Padma](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/github.png)](https://github.com/PadmaGnanapriya2)
+[![Padma](https://github.com/PadmaGnanapriya/PadmaGnanapriya/blob/master/medium.png)](https://medium.com/@padmagnanapriya)
+
 
 
 
